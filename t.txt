@@ -1,0 +1,4 @@
+XBI CSG SBB Base Trigger
+
+XBI CSG Eqp Base TRIGGER
+XBI CSG Work Orders TRIGGER
