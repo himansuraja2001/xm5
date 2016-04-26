@@ -1,0 +1,34 @@
+$ cd "C:\Users\cdorai200\XBI_GIT\xbi-pentaho"
+
+cdorai200@patapl-H2P0V32 /cygdrive/c/Users/cdorai200/XBI_GIT/xbi-pentaho
+$ mkdir -p docs
+
+cdorai200@patapl-H2P0V32 /cygdrive/c/Users/cdorai200/XBI_GIT/xbi-pentaho
+$ mkdir -p projects/xbo/adhoc
+
+cdorai200@patapl-H2P0V32 /cygdrive/c/Users/cdorai200/XBI_GIT/xbi-pentaho
+$ mkdir -p projects/xbo/jobs
+
+cdorai200@patapl-H2P0V32 /cygdrive/c/Users/cdorai200/XBI_GIT/xbi-pentaho
+$ mkdir -p projects/xbo/scripts
+
+cdorai200@patapl-H2P0V32 /cygdrive/c/Users/cdorai200/XBI_GIT/xbi-pentaho
+$ mkdir -p projects/xbo/trans
+
+cdorai200@patapl-H2P0V32 /cygdrive/c/Users/cdorai200/XBI_GIT/xbi-pentaho
+$ mkdir -p shared/conf
+
+cdorai200@patapl-H2P0V32 /cygdrive/c/Users/cdorai200/XBI_GIT/xbi-pentaho
+$ mkdir -p shared/lib
+
+cdorai200@patapl-H2P0V32 /cygdrive/c/Users/cdorai200/XBI_GIT/xbi-pentaho
+$ mkdir -p shared/trans
+
+cdorai200@patapl-H2P0V32 /cygdrive/c/Users/cdorai200/XBI_GIT/xbi-pentaho
+$ mkdir -p shared/scripts
+
+cdorai200@patapl-H2P0V32 /cygdrive/c/Users/cdorai200/XBI_GIT/xbi-pentaho
+$
+C:\Users\cdorai200\Documents\git-doc\casper_manual.asciidoc
+
+https://github.com/himansuraja2001/xm5.git
